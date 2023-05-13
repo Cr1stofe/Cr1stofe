@@ -4,8 +4,8 @@
 - 🌱 Estudando React, Typescript e NextJS
 
 ##
-![](https://github-readme-stats.vercel.app/api?username=Cr1stofe&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1stofe&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Cr1stof&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1stof&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Cristofe-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
