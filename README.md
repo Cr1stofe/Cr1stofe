@@ -4,7 +4,6 @@
 - 🌱 Estudando React, Typescript e NextJS
 
 ##
-![](https://github-readme-stats.vercel.app/api?username=Cr1stofe&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1stofe&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div style="display: inline_block"><br>
