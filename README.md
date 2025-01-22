@@ -1,7 +1,7 @@
-# Oi! Eu sou Cristofe Albuquerque, desenvolvedor front-end!
+# Oi! Eu sou Cristofe Albuquerque, desenvolvedor front-end e mobile!
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React, Typescript e NextJS
+- 🔭 Hoje trabalho com front-end e mobile
+- 🌱 Estudando e trabalhando com React, Typescript, NextJS e Flutter
 
 ## 
 ### Você pode acessar meu site por <a href="https://cr1stofe.com/" target="_blank"> aqui. </a>
