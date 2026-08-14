@@ -1,28 +1,51 @@
-# Oi! Eu sou Cristofe Albuquerque, desenvolvedor front-end e mobile!
+# Olá! Eu sou Cristofe Albuquerque
 
-- 🔭 Hoje trabalho com front-end e mobile
-- 🌱 Estudando e trabalhando com React, Typescript, NextJS e Flutter
+**Front-end Developer** com experiência no desenvolvimento de aplicações web e mobile.
 
-##
-![](https://github-readme-stats.vercel.app/api?username=Cr1stofe&show_icons=true&theme=github_dark&hide_border=false&hide_rank=true&hide=stars,issues&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1stofe&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Meu foco profissional é o desenvolvimento Front-end, principalmente com **React, Next.js e TypeScript**, trabalhando também com diferentes soluções de estilização e integração com APIs.
 
-<div><br>
-    <img align="center" alt="Cristofe-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="Cristofe-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Cristofe-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Cristofe-Next" src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=20232A">
-    <img align="center" alt="Cristofe-HTML"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Cristofe-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Cristofe-CSS" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img align="center" alt="Cristofe-CSS" src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-    <img align="center" alt="Cristofe-CSS" src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+Atualmente, estudo tecnologias de back-end, como **Node.js e PostgreSQL**, com o objetivo de ampliar minha atuação para o desenvolvimento **Fullstack**.
+
+## Stack
+
+**Frontend**
+
+<div>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-##
-<div> 
-  <a href="https://www.instagram.com/cristofe_albuquerque" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cristofe.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristofe-albuquerque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<br>
+
+**Styling**
+
+<div>
+  <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img align="center" alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+</div>
+
+<br>
+
+**Backend & Mobile**
+
+<div>
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
+
+## Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/cristofe-albuquerque">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:cristofe.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
