@@ -65,7 +65,7 @@ Modern educational platform frontend built with Next.js App Router and BFF archi
 - **Live Demo:** [veltro.cr1stofe.dev](https://veltro.cr1stofe.dev/)
 - **Techs:** `Next.js`, `React 19`, `TypeScript`, `Zustand`, `React Hook Form`, `Zod`, `SCSS Modules`
 
-### ⚡ [Personal Portfolio v1.0.0](https://github.com/Cr1stofe/portfolio)
+### ⚡ [Personal Portfolio](https://github.com/Cr1stofe/portfolio)
 
 Modern personal portfolio engineered with Next.js 16 (Turbopack), React 19, TypeScript, i18n (PT-BR / EN-US), Vitest, automated CI/CD pipeline, and SEO/A11y optimizations.
 
